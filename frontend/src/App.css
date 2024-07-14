@@ -1,0 +1,27 @@
+
+.headd{
+  text-align: center;
+  margin: auto;
+  height: 100px;
+}
+.container{
+  background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(181,56,81,0.6150234741784038) 100%);
+  display: table;
+  width: 100%;
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+#top-all{
+  background: rgb(61,86,87);
+background: radial-gradient(circle, rgba(61,86,87,1) 5%, rgba(26,44,73,1) 100%);}
+h1{
+  color: snow;
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+span{
+  font-weight: 800;
+}
